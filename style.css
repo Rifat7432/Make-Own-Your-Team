@@ -8,3 +8,9 @@ font-family: 'Open Sans', sans-serif;
     background-image: url(.//images/images__1_-removebg-preview.png);
     background-size: cover;
 }
+.name-list{
+ list-style-type:decimal;
+}
+.name-list li{
+    margin-top:20px ;
+}
